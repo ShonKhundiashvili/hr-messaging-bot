@@ -16,5 +16,4 @@ An automation script that sends personalized messages to HR professionals on Lin
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/linkedin-hr-messaging-bot.git
-   cd linkedin-hr-messaging-bot
+   git clone https://github.com/ShonKhundiashvili/send_automated_messages_to_HR_on_LinkedIn.git
